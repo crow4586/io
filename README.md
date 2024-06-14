@@ -4,7 +4,7 @@ WINDOWS
 
 IO.NET官方部署
 
-https://github.com/crow4586/io/releases/download/io.net/io.exe
+https://github.com/crow4586/io/releases/download/io.net/io.net.exe
 
 
 OPAI部署
